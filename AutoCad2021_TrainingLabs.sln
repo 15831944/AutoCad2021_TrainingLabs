@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03_Database", "Lab03_Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04_PaletteSet", "Lab04_PaletteSet\Lab04_PaletteSet.csproj", "{C64B55BB-8CA9-49C6-BB13-C616DB7CAB68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05_ExtensionDictionary", "Lab05_ExtensionDictionary\Lab05_ExtensionDictionary.csproj", "{7CD9BFAD-3AD6-4AFE-81AB-862F27EED0F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C64B55BB-8CA9-49C6-BB13-C616DB7CAB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C64B55BB-8CA9-49C6-BB13-C616DB7CAB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C64B55BB-8CA9-49C6-BB13-C616DB7CAB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD9BFAD-3AD6-4AFE-81AB-862F27EED0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD9BFAD-3AD6-4AFE-81AB-862F27EED0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD9BFAD-3AD6-4AFE-81AB-862F27EED0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD9BFAD-3AD6-4AFE-81AB-862F27EED0F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
